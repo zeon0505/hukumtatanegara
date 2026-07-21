@@ -30,7 +30,7 @@
 
           <div class="flex items-center gap-3 border-b border-gray-100 pb-4">
             <div class="w-10 h-10 rounded-full bg-teal-50 border border-teal-500/30 p-0.5 flex items-center justify-center shrink-0">
-              <img src="{{ asset('assest/Logo HTN.png') }}" alt="HTN Logo" class="w-full h-full object-contain rounded-full" onerror="this.onerror=null;this.src='{{ asset('assest/LOGO STAIMAS AI.png') }}'">
+              <img src="{{ asset('assest/LOGO STAIMAS AI.png') }}" alt="HTN Logo" class="w-full h-full object-contain rounded-full">
             </div>
             <div class="leading-tight">
               <div class="flex items-center gap-1.5">
